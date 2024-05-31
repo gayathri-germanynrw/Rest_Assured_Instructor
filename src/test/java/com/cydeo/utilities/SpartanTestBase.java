@@ -7,7 +7,7 @@ public abstract class SpartanTestBase {
 
     @BeforeAll
     public static void init(){
-        RestAssured.baseURI = "http://54.86.2.212:8000";
+        RestAssured.baseURI = "http://3.84.109.78:8000";
     }
 
 }
